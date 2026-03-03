@@ -1,7 +1,6 @@
 ### Hello there! I'm Francis👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisjmp/)
-[![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rexuswolf)
 [![My Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rexusyt?si=9oFYaEowQkSJLn_8kScsJw)
 
 I'm a spanish guy, studied Software Engineering at University of Cordoba.
@@ -36,11 +35,3 @@ These are the technologies I've been learning and using so far, some of them are
   [![Firebase](https://img.shields.io/badge/Firebase-0081CB?style=for-the-badge&logo=firebase)](https://github.com/Need2Watch/N2W_Front)
   [![Docker](https://img.shields.io/badge/Docker-02569B?style=for-the-badge&logo=docker&logoColor=white)]()
   [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-- OS & IDE & Tools : <br />
-  [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-  [![VS Code](https://img.shields.io/badge/VSCode-003791?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-  [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
-  [![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3060Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
-  [![AMD](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() <br />
-
-  [![rexuswolf's github stats](https://github-readme-stats.vercel.app/api?username=rexuswolf&theme=radical&count_private=true&show_icons=true)](https://github.com/rexuswolf/github-readme-stats)
